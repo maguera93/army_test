@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc147217d22c83c4c96e051c0562cb9d, type: 3}
+  m_Name: Swordman
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 6397736756328372807, guid: 658aa6eeb0dfb2945ab75aa7e20a0629, type: 3}
+  _icon: {fileID: -4329102245182254993, guid: c167cd921e5eef74f92474a298c9fd79, type: 3}

@@ -19,21 +19,25 @@ namespace MAG.Utils
             }
         }
 
-        public GameObject SpawnObject(Vector3 position, Quaternion rotation)
+        public void SpawnObject(Vector3 position, Quaternion rotation)
         {
+            if (pool.Count == 0)
+                return;
+
             GameObject go = pool.Dequeue();
             go.SetActive(true);
             go.transform.position = position;
             go.transform.rotation = rotation;
 
-            pool.Enqueue(go);
+            // For this project this has no use, because I'll never reuse a spawned object
+            //pool.Enqueue(go);
 
-            return go;
+            //return go;
         }
 
-        public GameObject SpawnObject(Vector3 position)
+        public void SpawnObject(Vector3 position)
         {
-            return SpawnObject(position, Quaternion.identity);
+            SpawnObject(position, Quaternion.identity);
         }
     }
 }

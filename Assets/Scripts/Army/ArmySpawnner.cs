@@ -1,18 +1,34 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class ArmySpawnner : MonoBehaviour
+namespace MAG.Army.Spawnner
 {
-    // Start is called before the first frame update
-    void Start()
+    public class ArmySpawnner : MonoBehaviour, IArmySpawnner
     {
-        
-    }
+        public event SpawnSoldierEvent OnClick;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        [SerializeField]
+        private LayerMask groundLayer;
+
+        // Update is called once per frame
+        void Update()
+        {
+            if (Input.GetKeyDown(KeyCode.Mouse0) && !EventSystem.current.IsPointerOverGameObject())
+            {
+                LaunchRaycast(Input.mousePosition);
+            }
+        }
+
+
+        private void LaunchRaycast(Vector2 point)
+        {
+            Ray ray = Camera.main.ScreenPointToRay(point);
+            RaycastHit hit;
+
+            if (Physics.Raycast(ray, out hit, Mathf.Infinity, groundLayer))
+            {
+                OnClick?.Invoke(hit.point);
+            }
+        }
     }
 }

@@ -1,0 +1,2508 @@
+fileFormatVersion: 2
+guid: 3a77af200d7f4064eaa6d21df0e5eea2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7927504146647442242
+    second: archer_blond_hair_0
+  - first:
+      213: -2421503256457176127
+    second: archer_blond_hair_1
+  - first:
+      213: 5301283076575319383
+    second: archer_blond_hair_2
+  - first:
+      213: -1193130113495782903
+    second: archer_blond_hair_3
+  - first:
+      213: 2610537927687872469
+    second: archer_blond_hair_4
+  - first:
+      213: 8486521943479880562
+    second: archer_blond_hair_5
+  - first:
+      213: -4453634179850601570
+    second: archer_blond_hair_6
+  - first:
+      213: -3964907214238728114
+    second: archer_blond_hair_7
+  - first:
+      213: 4694131860172578158
+    second: archer_blond_hair_8
+  - first:
+      213: -6350889959688433841
+    second: archer_blond_hair_9
+  - first:
+      213: -4673773575610737925
+    second: archer_blond_hair_10
+  - first:
+      213: -2400790760810198265
+    second: archer_blond_hair_11
+  - first:
+      213: 6682716970654507063
+    second: archer_blond_hair_12
+  - first:
+      213: -2131763966128708892
+    second: archer_blond_hair_13
+  - first:
+      213: 5453323238428471861
+    second: archer_blond_hair_14
+  - first:
+      213: -1131534489704008869
+    second: archer_blond_hair_15
+  - first:
+      213: 3482370199306270254
+    second: archer_blond_hair_16
+  - first:
+      213: 4480737040270531738
+    second: archer_blond_hair_17
+  - first:
+      213: -2808026649739833587
+    second: archer_blond_hair_18
+  - first:
+      213: 4115366362360316195
+    second: archer_blond_hair_19
+  - first:
+      213: 4033212733631241687
+    second: archer_blond_hair_20
+  - first:
+      213: -1412571448443617694
+    second: archer_blond_hair_21
+  - first:
+      213: 8864091724756688468
+    second: archer_blond_hair_22
+  - first:
+      213: -6967810274758838022
+    second: archer_blond_hair_23
+  - first:
+      213: -36328765039456682
+    second: archer_blond_hair_24
+  - first:
+      213: -8043345385414815567
+    second: archer_blond_hair_25
+  - first:
+      213: -1531660392421091695
+    second: archer_blond_hair_26
+  - first:
+      213: -6561524181104257321
+    second: archer_blond_hair_27
+  - first:
+      213: -4106439937037995010
+    second: archer_blond_hair_28
+  - first:
+      213: 4668162272184586786
+    second: archer_blond_hair_29
+  - first:
+      213: -1780705617860602372
+    second: archer_blond_hair_30
+  - first:
+      213: 2925984197855121747
+    second: archer_blond_hair_31
+  - first:
+      213: -3784539753191055179
+    second: archer_blond_hair_32
+  - first:
+      213: 4700255573443984783
+    second: archer_blond_hair_33
+  - first:
+      213: 3417218753526083086
+    second: archer_blond_hair_34
+  - first:
+      213: -4306359915123328487
+    second: archer_blond_hair_35
+  - first:
+      213: -7951519718642839360
+    second: archer_blond_hair_36
+  - first:
+      213: 3048818349137892380
+    second: archer_blond_hair_37
+  - first:
+      213: -6954557043669847598
+    second: archer_blond_hair_38
+  - first:
+      213: -4598974960741887508
+    second: archer_blond_hair_39
+  - first:
+      213: -1901106038409381126
+    second: archer_blond_hair_40
+  - first:
+      213: -484867848837428719
+    second: archer_blond_hair_41
+  - first:
+      213: 6621648475457469794
+    second: archer_blond_hair_42
+  - first:
+      213: 1153710336206652297
+    second: archer_blond_hair_43
+  - first:
+      213: 6439720472611133868
+    second: archer_blond_hair_44
+  - first:
+      213: -822032725367627712
+    second: archer_blond_hair_45
+  - first:
+      213: 2798331913590308254
+    second: archer_blond_hair_46
+  - first:
+      213: -7842383696066654130
+    second: archer_blond_hair_47
+  - first:
+      213: -708028433283603820
+    second: archer_blond_hair_48
+  - first:
+      213: 8648041447644742779
+    second: archer_blond_hair_49
+  - first:
+      213: 4633860217020699832
+    second: archer_blond_hair_50
+  - first:
+      213: -2359479451416506143
+    second: archer_blond_hair_51
+  - first:
+      213: 1881236306959957532
+    second: archer_blond_hair_52
+  - first:
+      213: 2705393175799475515
+    second: archer_blond_hair_53
+  - first:
+      213: -969400259836976918
+    second: archer_blond_hair_54
+  - first:
+      213: -4222550322245128594
+    second: archer_blond_hair_55
+  - first:
+      213: -2745457023076180196
+    second: archer_blond_hair_56
+  - first:
+      213: 7810960682459362842
+    second: archer_blond_hair_57
+  - first:
+      213: 6342924093477376980
+    second: archer_blond_hair_58
+  - first:
+      213: -77432497477064374
+    second: archer_blond_hair_59
+  - first:
+      213: -3634364595773427947
+    second: archer_blond_hair_60
+  - first:
+      213: -7853409884705399791
+    second: archer_blond_hair_61
+  - first:
+      213: -6684187310395665484
+    second: archer_blond_hair_62
+  - first:
+      213: 7763488133274063760
+    second: archer_blond_hair_63
+  - first:
+      213: -7544762050678084471
+    second: archer_blond_hair_64
+  - first:
+      213: -9066902113375364378
+    second: archer_blond_hair_65
+  - first:
+      213: -4118526627826879975
+    second: archer_blond_hair_66
+  - first:
+      213: -7890329815342353079
+    second: archer_blond_hair_67
+  - first:
+      213: 7742466624630398916
+    second: archer_blond_hair_68
+  - first:
+      213: -2950422902073116083
+    second: archer_blond_hair_69
+  - first:
+      213: -7584679424504974776
+    second: archer_blond_hair_70
+  - first:
+      213: -8418282596275124877
+    second: archer_blond_hair_71
+  - first:
+      213: -8016804535208516022
+    second: archer_blond_hair_72
+  - first:
+      213: -1658502490320486749
+    second: archer_blond_hair_73
+  - first:
+      213: 7652903683967783728
+    second: archer_blond_hair_74
+  - first:
+      213: 4716736758567325166
+    second: archer_blond_hair_75
+  - first:
+      213: -7879789492805672791
+    second: archer_blond_hair_76
+  - first:
+      213: -5623011786798046089
+    second: archer_blond_hair_77
+  - first:
+      213: 1827067011388063293
+    second: archer_blond_hair_78
+  - first:
+      213: -3380018674402106495
+    second: archer_blond_hair_79
+  - first:
+      213: 4484056722932548504
+    second: archer_blond_hair_80
+  - first:
+      213: 5958528508235358443
+    second: archer_blond_hair_81
+  - first:
+      213: 923393367511508022
+    second: archer_blond_hair_82
+  - first:
+      213: -1648479886929405700
+    second: archer_blond_hair_83
+  - first:
+      213: 292270059679956530
+    second: archer_blond_hair_84
+  - first:
+      213: 6027907072477245989
+    second: archer_blond_hair_85
+  - first:
+      213: -7100614807637841521
+    second: archer_blond_hair_86
+  - first:
+      213: -8535383756642359881
+    second: archer_blond_hair_87
+  - first:
+      213: 1840700612506780106
+    second: archer_blond_hair_88
+  - first:
+      213: -1729430353354617769
+    second: archer_blond_hair_89
+  - first:
+      213: -4688328983023768114
+    second: archer_blond_hair_90
+  - first:
+      213: 3303656361823099324
+    second: archer_blond_hair_91
+  - first:
+      213: 5914316554129958768
+    second: archer_blond_hair_92
+  - first:
+      213: 324194188116891680
+    second: archer_blond_hair_93
+  - first:
+      213: -8960048807450489512
+    second: archer_blond_hair_94
+  - first:
+      213: -7214096309346063709
+    second: archer_blond_hair_95
+  - first:
+      213: -1035900705862132578
+    second: archer_blond_hair_96
+  - first:
+      213: -4410570283951469233
+    second: archer_blond_hair_97
+  - first:
+      213: 4584892984737696934
+    second: archer_blond_hair_98
+  - first:
+      213: -2522874167849419202
+    second: archer_blond_hair_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archer_blond_hair_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1390
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2436b580507240e60800000000000000
+      internalID: 7927504146647442242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1388
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb1b603e97156ed0800000000000000
+      internalID: -2421503256457176127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1386
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755df09eed0f19940800000000000000
+      internalID: 5301283076575319383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1387
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a2346bb76217fe0800000000000000
+      internalID: -1193130113495782903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1389
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df158cf96e7a3420800000000000000
+      internalID: 2610537927687872469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1317
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b0dab7ebe26c570800000000000000
+      internalID: 8486521943479880562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1316
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b777e4f438132c0800000000000000
+      internalID: -4453634179850601570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1314
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40cae745e1d9f8c0800000000000000
+      internalID: -3964907214238728114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1317
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1e666e08e42140800000000000000
+      internalID: 4694131860172578158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1314
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f0d29ea3b1dd7a0800000000000000
+      internalID: -6350889959688433841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1246
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa5d1912bb632fb0800000000000000
+      internalID: -4673773575610737925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1244
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b4ed1e58daeaed0800000000000000
+      internalID: -2400790760810198265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1242
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302652ada7cdbc50800000000000000
+      internalID: 6682716970654507063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1243
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2abe5a7f37a62e0800000000000000
+      internalID: -2131763966128708892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1244
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53279e7a7981eab40800000000000000
+      internalID: 5453323238428471861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1173
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f612706bfb40f0800000000000000
+      internalID: -1131534489704008869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1176
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e267e02fe3dd35030800000000000000
+      internalID: 3482370199306270254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1171
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c92412996ce2e30800000000000000
+      internalID: 4480737040270531738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1172
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f4d6eb3a2e709d0800000000000000
+      internalID: -2808026649739833587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1170
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321041507e7bc1930800000000000000
+      internalID: 4115366362360316195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1102
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd1ca3cc99d8f730800000000000000
+      internalID: 4033212733631241687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1103
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb8a370c9856ce0800000000000000
+      internalID: -1412571448443617694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1098
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e1a9ea574930b70800000000000000
+      internalID: 8864091724756688468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1099
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8beaed87d5d4f90800000000000000
+      internalID: -6967810274758838022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_24
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1100
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec1b04e2fee7ff0800000000000000
+      internalID: -36328765039456682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1030
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09298ccfb406090800000000000000
+      internalID: -8043345385414815567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1028
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1969439fcf27ebae0800000000000000
+      internalID: -1531660392421091695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1026
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d615209588c0f4a0800000000000000
+      internalID: -6561524181104257321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1027
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef37f5552aef207c0800000000000000
+      internalID: -4106439937037995010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1029
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22251738ad4a8c040800000000000000
+      internalID: 4668162272184586786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 957
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf550e5dca9a947e0800000000000000
+      internalID: -1780705617860602372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 958
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3519f8b102f2b9820800000000000000
+      internalID: 2925984197855121747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 954
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0e3b4552d9a7bc0800000000000000
+      internalID: -3784539753191055179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 956
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dbda08a89aa3140800000000000000
+      internalID: 4700255573443984783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_34
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 953
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea9b3e9566c6f20800000000000000
+      internalID: 3417218753526083086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 885
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab718297cbc34c0800000000000000
+      internalID: -4306359915123328487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 886
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c097c1e1f686a190800000000000000
+      internalID: -7951519718642839360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 882
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c149e0d92249f4a20800000000000000
+      internalID: 3048818349137892380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 884
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d13ed137337c7f90800000000000000
+      internalID: -6954557043669847598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 881
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1501eb3a82d20c0800000000000000
+      internalID: -4598974960741887508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 813
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa324c612aed95e0800000000000000
+      internalID: -1901106038409381126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 814
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a890ba2476549f0800000000000000
+      internalID: -484867848837428719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 810
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d36279432d4eb50800000000000000
+      internalID: 6621648475457469794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 812
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834b4b207dc20010800000000000000
+      internalID: 1153710336206652297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 809
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca91cc696ab7e5950800000000000000
+      internalID: 6439720472611133868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 741
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04067b2779d8794f0800000000000000
+      internalID: -822032725367627712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 742
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d70399c0ca5d620800000000000000
+      internalID: 2798331913590308254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 738
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40d1a344914a2390800000000000000
+      internalID: -7842383696066654130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 740
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492214724e39c26f0800000000000000
+      internalID: -708028433283603820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_49
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 737
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7448b990e3040870800000000000000
+      internalID: 8648041447644742779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 670
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4555ee057ce4040800000000000000
+      internalID: 4633860217020699832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 668
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e05c73a0f1714fd0800000000000000
+      internalID: -2359479451416506143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 666
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e7ae6347e7b1a10800000000000000
+      internalID: 1881236306959957532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 667
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d2b4572cc7b8520800000000000000
+      internalID: 2705393175799475515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_54
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 669
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ee3b899ffb82f0800000000000000
+      internalID: -969400259836976918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 596
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e2e5c9adc7665c0800000000000000
+      internalID: -4222550322245128594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 596
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f5171326d26e9d0800000000000000
+      internalID: -2745457023076180196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 596
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1678804b5b166c60800000000000000
+      internalID: 7810960682459362842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 595
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d35cf45bd7960850800000000000000
+      internalID: 6342924093477376980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_59
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 595
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49eec5cd87eceef0800000000000000
+      internalID: -77432497477064374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 524
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f2ba4e7a4209dc0800000000000000
+      internalID: -3634364595773427947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 524
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd79aa155130390800000000000000
+      internalID: -7853409884705399791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_62
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 524
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b351b73e0ffc33a0800000000000000
+      internalID: -6684187310395665484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 523
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d2c113537dbb60800000000000000
+      internalID: 7763488133274063760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_64
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 523
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c2c7683ee9b4790800000000000000
+      internalID: -7544762050678084471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_65
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 436
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ead50ff094eb2280800000000000000
+      internalID: -9066902113375364378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 436
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91234665add08d6c0800000000000000
+      internalID: -4118526627826879975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_67
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 436
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94578d376daef7290800000000000000
+      internalID: -7890329815342353079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf996eaf54c27b60800000000000000
+      internalID: 7742466624630398916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_69
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 447
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a31c8a00efd07d0800000000000000
+      internalID: -2950422902073116083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_70
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 382
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842ba2faf3ecdb690800000000000000
+      internalID: -7584679424504974776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 380
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3750b26a4904c2b80800000000000000
+      internalID: -8418282596275124877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_72
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 378
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46e72500c69eb090800000000000000
+      internalID: -8016804535208516022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 379
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb85da5c0dbf8e0800000000000000
+      internalID: -1658502490320486749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_74
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 381
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0339d2f8a53943a60800000000000000
+      internalID: 7652903683967783728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 310
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedce617717357140800000000000000
+      internalID: 4716736758567325166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a06678843d55a290800000000000000
+      internalID: -7879789492805672791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_77
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 306
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7746118629c07f1b0800000000000000
+      internalID: -5623011786798046089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_78
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 307
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ebe9244cb0b5910800000000000000
+      internalID: 1827067011388063293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_79
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 309
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183631a7ce2c711d0800000000000000
+      internalID: -3380018674402106495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 238
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c81bf4d19a3e30800000000000000
+      internalID: 4484056722932548504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 236
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0286dcb12f0b250800000000000000
+      internalID: 5958528508235358443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 234
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a97a106d80dc00800000000000000
+      internalID: 923393367511508022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 235
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85230e64c6f19e0800000000000000
+      internalID: -1648479886929405700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_84
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 237
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eb4bd121a5e0400800000000000000
+      internalID: 292270059679956530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 166
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52232129b8d67a350800000000000000
+      internalID: 6027907072477245989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 164
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f892edff37c857d90800000000000000
+      internalID: -7100614807637841521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 162
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b561bb12b93c8980800000000000000
+      internalID: -8535383756642359881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_88
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 163
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac18f42647b7b8910800000000000000
+      internalID: 1840700612506780106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_89
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 165
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c058ca144dff7e0800000000000000
+      internalID: -1729430353354617769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 94
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd23b831a5bfeeb0800000000000000
+      internalID: -4688328983023768114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 92
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9dc6225f1f8dd20800000000000000
+      internalID: 3303656361823099324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e022129fd31250800000000000000
+      internalID: 5914316554129958768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_93
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 91
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02814fc75e4cf7400800000000000000
+      internalID: 324194188116891680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_94
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 93
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d40cdf41387a380800000000000000
+      internalID: -8960048807450489512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa8f9e0a162eb90800000000000000
+      internalID: -7214096309346063709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_96
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cd284ebcdbf91f0800000000000000
+      internalID: -1035900705862132578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 18
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dcd28e1b18ac2c0800000000000000
+      internalID: -4410570283951469233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_98
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 19
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac8878b0efc0af30800000000000000
+      internalID: 4584892984737696934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer_blond_hair_99
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 20
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7354af43fcfcd0800000000000000
+      internalID: -2522874167849419202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0fb35750c25bd1143bed70e0d00848c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
