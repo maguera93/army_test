@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using MAG.Utils;
+using MAG.Core;
 
 namespace MAG.Army
 {
@@ -25,7 +26,8 @@ namespace MAG.Army
         // Start is called before the first frame update
         void Start()
         {
-
+            ArmySetup();
+            GameManager.Instance.onSpawnSoldier += SpawnSoldier;
         }
 
         private void ArmySetup()
